@@ -16,7 +16,7 @@
 
 Header {
     height: 900px; /*change*/
-    background-image: url(../images/jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+    background-image: url(./images/jeshoots-com-eCktzGjC-iU-unsplash.jpg);
     background-size: cover;
     border-bottom: 1px solid white;
 }
